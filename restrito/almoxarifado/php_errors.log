@@ -1,0 +1,240 @@
+[15-Jul-2025 20:52:04 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[15-Jul-2025 20:52:33 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[15-Jul-2025 20:52:43 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[15-Jul-2025 21:02:42 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[16-Jul-2025 08:11:56 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[16-Jul-2025 17:57:09 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[16-Jul-2025 18:14:36 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[17-Jul-2025 13:24:18 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[17-Jul-2025 13:24:20 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[17-Jul-2025 17:25:16 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[17-Jul-2025 18:10:17 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 09:00:15 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 18:54:37 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 19:06:42 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 19:07:11 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 19:38:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 19:59:19 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 20:01:51 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 21:18:31 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 21:19:05 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 21:26:44 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 21:27:55 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 21:35:04 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 21:53:11 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[18-Jul-2025 22:32:33 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[19-Jul-2025 18:04:04 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[19-Jul-2025 18:05:03 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[19-Jul-2025 18:05:51 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[19-Jul-2025 18:06:34 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[21-Jul-2025 20:33:17 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[25-Jul-2025 19:17:25 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[25-Jul-2025 19:17:41 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[25-Jul-2025 19:17:42 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[25-Jul-2025 19:17:43 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[30-Jul-2025 20:30:41 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[31-Jul-2025 08:13:47 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[31-Jul-2025 19:36:10 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:08:22 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:09:50 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:22:13 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:23:32 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:30:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:34:19 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:35:20 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:38:12 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 14:38:32 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 15:12:37 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265
+[02-Aug-2025 15:14:04 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oculto' in 'WHERE' in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php:265
+Stack trace:
+#0 /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php(265): PDO->query()
+#1 {main}
+  thrown in /home/u662866198/domains/localferramentas.com/public_html/restrito/almoxarifado/consulta-equipamentos-2.php on line 265

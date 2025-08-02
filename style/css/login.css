@@ -1,0 +1,111 @@
+﻿body{
+	background: url(../img/Fundo-login3.jpg) repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/*--------------------------*/
+	/* Customize the label (the container) */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	height: 20px;
+	width: 20px;
+	border:1px solid #CCD1D9;
+	border-radius:5px;
+	background-color: #FFF;
+}
+
+.container:hover input ~ .checkmark {
+	background-color: #cce0da;
+}
+
+.container input:checked ~ .checkmark {
+	background-color: #599B83;
+}
+.container .titulo{
+	font-size:11px;
+	position:relative;
+	bottom:5px;
+	color:#666;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+.container .checkmark:after {
+  left: 7px;
+  top: 4.5px;
+  width: 4px;
+  height: 8px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+/*--------------------------*/
+.form-signin-2 {
+	max-width: 330px;
+	margin: 0 auto;
+	margin-top:300px;
+	padding:18px;
+	border-radius:8px;
+	background: #F3F3F3;
+	border:1px solid #CCC;
+	-webkit-box-shadow: 0px 0px 43px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 43px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 43px 0px rgba(0,0,0,0.75);
+}
+.form-signin-2 .formHeader{
+	text-align:center;
+	font-family: 'Lobster', sans-serif;
+	color:#000;
+	margin-bottom:30px;
+}
+.form-signin-2 input[type="text"] {
+  height:40px;
+  border-radius:4px;
+}
+
+.form-signin-2 input[type="password"] {
+  margin-bottom: 10px;
+  height:40px;
+  border-radius:4px;
+}
+
+.form-signin-2 .remember-me{
+	font-family: 'Ubuntu', sans-serif;
+	font-size:12px;
+}
